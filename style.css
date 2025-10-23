@@ -2,4 +2,13 @@ body {
    background-color: rgb(0, 0, 0);
     color: crimson;
     font-family: "Montserrat", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+}
+button{
+    background-color: crimson;
+    color: black;
+    font-family: "Montserrat", sans-serif;
 }
