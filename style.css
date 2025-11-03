@@ -12,3 +12,11 @@ button{
     color: black;
     font-family: "Montserrat", sans-serif;
 }
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display: block;
+}
